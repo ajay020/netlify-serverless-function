@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ajay020/netlify-serverless-function/issues"
   },
-  "homepage": "https://github.com/ajay020/netlify-serverless-function#readme"
+  "homepage": "https://github.com/ajay020/netlify-serverless-function#readme",
+  "devDependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
